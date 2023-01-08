@@ -1,4 +1,4 @@
-### Hola Mundo 👋
+### Hola Mundo 👋 soy Laura 🙋🏼‍♀️
  
  En septiembre del 2022 decidí dar un giro de 360º a mi vida laboral y reprogramé mi vida aventurarndome hacia el mundo de la progrmación 💻.
  
@@ -11,7 +11,7 @@
       - [✅] Programación back: aplicaciones Node JS, Express y SQL. -Manejo de Slack, Github, VS code,Gulp, Terminal, Linter y Zeplin.
       - [✅] Experiencia en el desarrollo de proyecto usando filosofía Agile y marco de trabajo SCRUM.
       
-A día de hoy puedo decir que programar es mi nueva vocación🥰, por lo que estoy muy motivada e ilusionada a seguir formandome y a dedicar parte de mi vida al mundo code.
+A día de hoy puedo decir que programar es mi nueva vocación🥰, por lo que estoy muy motivada e ilusionada a seguir formandome y a dedicar parte de mi vida al mundo code. Por ello busco una oportunidad laboral para seguir creciendo en el mundo tech.
 
 ## EN RESUMEN:
 ```
