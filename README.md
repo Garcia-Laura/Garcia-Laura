@@ -3,7 +3,8 @@
  En septiembre del 2022 decidí dar un giro de 360º a mi vida laboral y reprogramé mi vida aventurarndome hacia el mundo de la progrmación 💻.
  
  Estudié en remoto en Adalab 📚, curso intensivo donde me formé:
-      - [✅ ] Maquetación: HTML5-CSS3, Flexbox, CSS-grid, diseño responsive, SASS, Bootstrap.
+ 
+      - [✅] Maquetación: HTML5-CSS3, Flexbox, CSS-grid, diseño responsive, SASS, Bootstrap.
       - [✅] Java Script(ES6) y servicios web (APIs) de terceros. -Control de versiones Git.
       - [✅] Creación de SPAs sencillas con React.
       - [✅] Conocimientos básicos de APIs.
