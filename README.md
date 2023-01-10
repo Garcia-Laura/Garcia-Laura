@@ -8,7 +8,8 @@
       - [✅] Java Script(ES6) y servicios web (APIs) de terceros. -Control de versiones Git.
       - [✅] Creación de SPAs sencillas con React.
       - [✅] Conocimientos básicos de APIs.
-      - [✅] Programación back: aplicaciones Node JS, Express y SQL. -Manejo de Slack, Github, VS code,Gulp, Terminal, Linter y Zeplin.
+      - [✅] Programación back: aplicaciones Node JS, Express y SQL. 
+      - [✅] Manejo de Slack, Github, VS code,Gulp, Terminal, Linter y Zeplin.
       - [✅] Experiencia en el desarrollo de proyecto usando filosofía Agile y marco de trabajo SCRUM.
       
 A día de hoy puedo decir que programar es mi nueva vocación🥰, por lo que estoy muy motivada e ilusionada a seguir formandome y a dedicar parte de mi vida al mundo code. Por ello busco una oportunidad laboral para seguir creciendo en el mundo tech.
