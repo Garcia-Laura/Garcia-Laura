@@ -12,6 +12,8 @@
       - [✅] Experiencia en el desarrollo de proyecto usando filosofía Agile y marco de trabajo SCRUM.
       
 A día de hoy puedo decir que programar es mi nueva vocación🥰, por lo que estoy muy motivada e ilusionada a seguir formandome y a dedicar parte de mi vida al mundo code. Por ello busco una oportunidad laboral para seguir creciendo en el mundo tech.
+Si quieres saber más de mi me puedes escribir en:
+lgarciacuello@gmail.com
 
 ## EN RESUMEN:
 ```
